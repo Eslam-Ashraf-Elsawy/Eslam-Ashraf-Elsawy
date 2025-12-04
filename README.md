@@ -1,98 +1,93 @@
-Welcome to Eslam Elsawy's Profile! 👋
+# Welcome to Eslam Elsawy's Profile! 👋
 
-  
+AI Engineer and Computer Science graduate with hands-on experience in developing GenAI-powered enterprise applications, integrating Azure Cognitive Services, and building Retrieval-Augmented Generation (RAG) pipelines using vector databases. Proficient in Python, with a strong background in NLP, computer vision, LLMs, and multimodal AI systems. Adept at working within structured team environments to deliver scalable, production-ready solutions.
 
+- 🔗 **Check out my Resume:** [Eslam_Ashraf_Elsawy_AI_Engineer_CV](https://github.com/Eslam-Ashraf-Elsawy/Resume/blob/main/Eslam_Ashraf_Elsawy_AI_Engineer_CV.pdf)
+- 📧 **Connect with Me:** `eslam.elsawy.fe@gmail.com`
+- 💼 **LinkedIn:** [linkedin.com/in/eslam-elsawy/](https://www.linkedin.com/in/eslam-elsawy/)
 
+---
 
-👨‍💻 AI Solutions Engineer | Freelance | Specializing in Generative AI, NLP, Computer Vision, and Multimodal AI Systems
+## 🛠️ Technical Skills
 
-🌟 Passionate about building scalable AI solutions using LLMs, RAG pipelines, and vector databases
+| Category | Technologies |
+| :--- | :--- |
+| **Programming Languages** | Python (Primary), C++, Java, JavaScript |
+| **AI/ML Frameworks** | PyTorch, TensorFlow, Keras, Scikit-learn, Hugging Face Transformers |
+| **Generative AI & LLMs** | Gemini, GPT-4, GPT-NeoX, Llama 3, LangChain, RAG (Retrieval-Augmented Generation) |
+| **Cloud Platforms** | Microsoft Azure (Cognitive Services, Translator, TTS), Azure Functions, AWS Lambda |
+| **Vector Databases** | FAISS, Pinecone, Qdrant |
+| **Web & API Development** | FastAPI, Flask, REST APIs, ngrok |
+| **Databases** | MongoDB, PostgreSQL, MySQL, Oracle |
+| **GUI & Dashboards** | Tkinter, PyQt5, Streamlit |
+| **DevOps & Tools** | Docker, Git, GitHub, Redis, Selenium, PowerShell, Bash Scripting |
+| **Mathematics & Foundations** | Linear Algebra, Probability, Hypothesis Testing, OOP, Data Structures, Algorithms |
 
-🔍 Currently working on end-to-end AI applications for enterprise use cases, integrating Azure Cognitive Services and cloud infrastructure
+---
 
-💬 Ask me about Python, PyTorch, Transformers, FastAPI, Azure, or anything related to AI (ML, DL, NLP, Computer Vision)
+## 💼 Work Experience
 
-⚡ Fun fact: I'm an avid learner, always exploring new AI advancements and contributing to innovative projects
+**AI Engineer (Freelance)**
+*(Dec 2024 - Present)*
+- Designed and delivered end-to-end AI applications powered by Generative AI models (e.g., GPT-4, Gemini), integrating RAG pipelines and vector databases.
+- Built scalable, multilingual NLP services using Azure Cognitive Services (Text Analytics, Translator, Speech) and custom transformer pipelines.
+- Developed backend APIs using FastAPI with session handling and automation workflows via Redis.
+- Created interactive dashboards and monitoring tools using Streamlit and deployed solutions to Microsoft Azure.
 
-📄 Check out my Resume: [Google Drive](https://drive.google.com/drive/folders/14OrYeV1hN2T7VaArZZzGUDZK95irBWku?usp=sharing)
+**AI Developer – MCIT (Gov. Innovation Project)**
+*(Nov 2024 - Mar 2025)*
+- Developed a multimodal AI system for employee performance evaluation using Generative AI models (Llama 3, Qwen-VL) and Vector Databases.
+- Utilized OpenPose, MediaPipe, Whisper, and Praat for gesture, emotion, and audio analysis on Azure cloud.
+- Compared open-source AI pipelines with Gemini 2.0 Flash to optimize efficiency, achieving startup prototype recognition.
 
+**AI Engineer (Internship) – National Bank of Egypt (NBE)**
+*(July 2024 - Oct 2024)*
+- Built a Financial Dashboard Auto Transcript Analyzer using Gen-AI.
+- Designed a user-friendly interface to access the financial dashboard.
 
-Connect with Me 🌐
+---
 
-+20 102 1688 667 - eslam.elsawy.fe@gmail.com - linkedin.com/in/eslam-elsawy/
+## 🚀 Featured Projects
 
-🎓 Education
+### 🤖 AI-driven Video Processing Agent - MCIT
+- **Overview:** Developed a multimodal AI system to analyze video, audio, and text for generating structured performance evaluation reports. This project was recognized as a startup prototype.
+- **Key Features:**
+  - Video analysis (gesture, facial expression) with OpenPose & MediaPipe.
+  - Audio processing (speech-to-text, pronunciation analysis) with Whisper & Praat.
+  - Automated report generation using LLMs like Llama 3 & Qwen-VL.
+- **Technologies:** `OpenPose`, `MediaPipe`, `OpenCV`, `Whisper`, `Praat`, `spaCy`, `Llama 3`, `Gemini 2.0 Flash`.
 
-Bachelor's Degree in Computer ScienceFaculty of Computers and Artificial Intelligence, Benha University, EgyptSep 2018 - Jul 2022 | Grade: Very Good with Honors
+### 🌍 Omnichannel AI Tourism Agent - Egyptian Travel Agency
+- **Overview:** An omnichannel AI conversational agent for an Egyptian travel agency using Gen-AI and RAG to deliver context-aware responses in Egyptian Arabic across Web, WhatsApp, and social media.
+- **Key Features:**
+  - Multilingual NLP with Gemini 2.5 Flash for intent detection.
+  - RAG pipeline with semantic chunking, HuggingFace embeddings, and ChromaDB.
+  - Integrated FastAPI with Meta APIs and webhooks for messaging.
+- **Technologies:** `Gemini 2.5 Flash`, `LangChain`, `ChromaDB`, `FastAPI`, `Meta APIs`, `Python`.
 
-Diploma in AI, Data Science, and Cloud ComputingDigital Egypt Builders Initiative (DEBI), Ministry of Communications, EgyptJan 2024 - Dec 2024
+### 💹 Financial Dashboard Auto Transcript Analyzer - NBE
+- **Overview:** A Gen-AI-powered tool to analyze dashboards, extract data from charts, and generate human-like summaries, simulating a RAG pipeline.
+- **Key Features:**
+  - Extracted structured data from chart images using Transformer models.
+  - Implemented a vector-based query answering system.
+  - Generated narrative summaries with GPT-NeoX-20B and provided multilingual voice output.
+- **Technologies:** `FastAPI`, `Transformers`, `RAG-style Retrieval`, `GPT-NeoX-20B`, `Azure Cognitive Services`, `PyQt5`.
 
-Data Science Lab ParticipantWorldQuant University, RemoteJun 2023
+---
 
+## 🎓 Education & Certifications
 
+### Education
+- **Bachelor's Degree in Computer Science** - Benha University (2018 - 2022)
+  - *Grade: Very Good with Honors.*
+- **Diploma in AI, Data Science, and Cloud Computing** - Digital Egypt Builders Initiative (DEBI), Ministry of Communication (2024)
 
-💼 Work Experience
-
-AI Solutions Engineer | Freelance | Dec 2024 - Present  
-
-Designed and deployed GenAI-powered applications using GPT-4o, Gemini, and RAG pipelines with vector databases (FAISS, Pinecone).  
-Built multilingual NLP services with Azure Cognitive Services and custom transformer models.  
-Developed FastAPI-based APIs and Streamlit dashboards, deployed on Azure cloud.
-
-
-AI Developer | Ministry of Communications and Information Technology (MCIT), Egypt | Nov 2024 - Mar 2025  
-
-Created a multimodal AI system for employee performance evaluation using Llama 3, Qwen-VL, and vector databases.  
-Integrated OpenPose, MediaPipe, Whisper, and Praat for gesture, emotion, and audio analysis.  
-Achieved startup prototype recognition for real-world impact.
-
-
-GenAI Engineer (Intern) | National Bank of Egypt (NBE), Egypt | Jul 2024 - Oct 2024  
-
-Developed a Financial Dashboard Auto Transcript Analyzer using GenAI and RAG-inspired pipelines.  
-Built a user-friendly interface for data extraction and multilingual voice output with Azure TTS.
-
-
-
-
-🛠 Tech Stack
-📋 Languages
-
-🖥️ AI/ML Frameworks
-
-☁️ Cloud & DevOps
-
-🖼️ Libraries & Tools
-
-💻 IDEs/Editors
-
-🌐 Platforms & Communities
-
-
-📈 Featured Projects
-
-AI-driven Video Processing Agent | MCIT, EgyptMultimodal AI system for performance evaluation, integrating video, audio, and text analytics using OpenPose, MediaPipe, Whisper, and Llama 3. Recognized as a startup prototype.Tech: OpenCV, spaCy, Qwen-VL, Azure, FAISS
-
-Smart WhatsApp Assistant | Freelance, Saudi RetailGenAI-powered conversational assistant with RAG architecture for multilingual customer support, integrated with Twilio and deployed on Azure.Tech: GPT-4o, Azure Cognitive Services, FastAPI, Streamlit, Redis
-
-Financial Dashboard Auto Transcript Analyzer | NBE, EgyptGenAI tool for extracting and summarizing data from chart images, with multilingual voice output and a PyQt5 desktop interface.Tech: Transformers, GPT-NeoX, Azure TTS, FastAPI, PyQt5
-
-Face Mask Detection | Graduation ProjectYOLOv5-based face mask detection system with a Tkinter GUI.Tech: OpenCV, PyTorch, Tkinter
-
-
-
-🏆 Certifications
-
-Azure Certifications (In Progress): DP-100 (Data Scientist Associate), AI-102 (AI Engineer Associate)  
-DEBI Certifications: Stanford ML Specialization, Deep Learning Specialization, MLOps (MLflow, Hugging Face), Generative AI with LLMs  
-Other Courses: IoT & AI (NTI, 92%), IoT Fundamentals (Cisco), CCNA Introduction to Networks (Cisco)
-
-
-🌍 Languages
-
-Arabic: Native
-English: Very Good
-
-
-
-  
+### Certifications
+- **Microsoft Certified: Azure AI Engineer Associate (AI-102)** - *Earned August 2025*
+- **Azure Data Scientist Associate (DP-100)** - *Course Completed*
+- **DEBI Certifications:**
+  - Stanford Machine Learning Specialization
+  - Deep Learning Specialization
+  - MLOps Tools: MLflow and Hugging Face
+  - Generative AI with Large Language Models
+  - Introduction to Agile Development and Scrum (IBM)
