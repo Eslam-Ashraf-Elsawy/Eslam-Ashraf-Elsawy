@@ -18,6 +18,7 @@ AI Engineer and Computer Science graduate with hands-on experience in developing
 | **Cloud Platforms** | Microsoft Azure (Cognitive Services, Translator, TTS), Azure Functions, AWS Lambda |
 | **Vector Databases** | FAISS, Pinecone, Qdrant |
 | **Web & API Development** | FastAPI, Flask, REST APIs, ngrok |
+| **ERP & Business Automation** | Odoo API Integration (XML-RPC/JSON-RPC), Custom Module Development, ORM & Business Logic |
 | **Databases** | MongoDB, PostgreSQL, MySQL, Oracle |
 | **GUI & Dashboards** | Tkinter, PyQt5, Streamlit |
 | **DevOps & Tools** | Docker, Git, GitHub, Redis, Selenium, PowerShell, Bash Scripting |
